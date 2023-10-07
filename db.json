@@ -1,0 +1,66 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Python",
+      "author": "John Smith",
+      "duration": "4 weeks"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Fundamentals",
+      "author": "Jane Doe",
+      "duration": "6 weeks"
+    },
+    {
+      "id": 3,
+      "title": "Machine Learning Basics",
+      "author": "Alex Johnson",
+      "duration": "8 weeks"
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Python",
+      "author": "John Smith",
+      "duration": "4 weeks"
+    },
+    {
+      "id": 5,
+      "title": "Web Development Fundamentals",
+      "author": "Jane Doe",
+      "duration": "6 weeks"
+    },
+    {
+      "id": 6,
+      "title": "Machine Learning Basics",
+      "author": "Alex Johnson",
+      "duration": "8 weeks"
+    }
+  ],
+  "query": [
+    {
+      "coursename": "Web Development Fundamentals",
+      "username": "asd",
+      "userquery": "asfsac aszx",
+      "id": 2
+    },
+    {
+      "coursename": "Web Development Fundamentals",
+      "username": "asd",
+      "userquery": "asda",
+      "id": 3
+    },
+    {
+      "coursename": "Machine Learning Basics",
+      "username": "Arpit",
+      "userquery": "Why is this important?",
+      "id": 4
+    },
+    {
+      "coursename": "Machine Learning Basics",
+      "username": "Ap",
+      "userquery": "What is ML?",
+      "id": 5
+    }
+  ]
+}
